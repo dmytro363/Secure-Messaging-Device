@@ -41,3 +41,7 @@ Secure USB Messenger is a hardware USB device designed for secure transmission o
 
 ## 👨‍💻 Author
 Developed as an educational and experimental project in the fields of embedded systems, applied cryptography, and network communication.
+
+## 📜 License
+This project is licensed under the **GNU General Public License v3.0** (GPL-3.0).  
+See [https://www.gnu.org/licenses/gpl-3.0.en.html](https://www.gnu.org/licenses/gpl-3.0.en.html) for more details.
