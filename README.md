@@ -1,7 +1,7 @@
-# 📦 Secure USB Messenger
+# 📦 Secure Messaging Device
 
 ## 🧠 Description
-Secure USB Messenger is a hardware USB device designed for secure transmission of confidential messages between users over the internet. The system operates independently of the host computer’s network and provides end-to-end encrypted messaging using dedicated hardware.
+Secure Messaging Device is a hardware USB device designed for secure transmission of confidential messages between users over the internet. The system operates independently of the host computer’s network and provides end-to-end encrypted messaging using dedicated hardware.
 
 ## ⚙️ Hardware Components
 - **Arduino Pro Micro** — handles USB communication with the host computer.  
